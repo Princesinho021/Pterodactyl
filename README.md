@@ -1,4 +1,4 @@
-# Pterodactyl
+# Pterodactyl Instalaçao
 Pterodactyl - Instalaçao Script
 
 
